@@ -4092,7 +4092,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3435494149355704504, guid: 3e4081f0ed2db914c979254a38093441, type: 3}
       propertyPath: rotateSpeed
-      value: 7
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4006400850522431522, guid: 3e4081f0ed2db914c979254a38093441, type: 3}
       propertyPath: m_Materials.Array.data[0]
